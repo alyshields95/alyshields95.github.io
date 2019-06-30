@@ -5,3 +5,7 @@
     color: white;
     font-size: 30px;
   }
+
+  div.form-group {
+    width: 800px;
+  }
